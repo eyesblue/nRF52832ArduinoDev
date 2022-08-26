@@ -1,0 +1,1 @@
+The repository shows you how to develop the nRF52832(RAW chip or integrate SMD or event any your custom board) with Arduino IDE, I buy an E73-TBB development tool from https://www.ebyte.com/, it is the start of suffering, finally, I found the way to develop the SOC with Arduino IDE.
